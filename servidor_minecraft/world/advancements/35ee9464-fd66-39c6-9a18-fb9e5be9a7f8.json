@@ -1,0 +1,27 @@
+{
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-03-05 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-05 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-03-05 22:50:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:flower_forest": "2026-03-05 22:50:32 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
